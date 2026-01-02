@@ -7,4 +7,6 @@ hysteria2://yhqy5AHofQq@channel3.saghetalaie.homes:46914?insecure=1&obfs=salaman
 hysteria2://yhqy5AHofQq@channel4.saghetalaie.homes:46914?insecure=1&obfs=salamander&obfs-password=%26O%2328YB5qK%215t%23U&sni=www.google.com#%F0%9F%87%B1%F0%9F%87%BB%20Latvia
 hysteria2://Telegram--%3E%40Ln2Ray@206.71.158.23:45000?insecure=1&obfs=salamander&obfs-password=Telegram--%3E%40Ln2Ray&sni=gavazn.55994421.xyz#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands
 husi://ssh?eNpjYGBgMLQw1TMyMtczs9AzNNgmBhQpSc1JTS9KzI3PLErMA9L5eQ8ZgcJLnZycjIwdTV10TUzcDHWNHIGEhbGjga6TmamRkZGLoZmTs2MjC1Blz9sFe95uXw0m17ll5uUk5qU0NjKAAQcDFAAAIKYiWQ
-husi://ssh?eNpjYGBgMLQw1TMyMtczs9AzNNgmBhQpSc1JTS9KzI3PLErMA9L5eQ8ZgcJLnZycjIwdTV10TUzcDHWNHIGEhbGjga6TmamRkZGLoZmTs2MjC1Blz9sFe95uXw0m17ll5uUk5qU0NjKAAQcDFAAAIKYiWQ
+sn://ssh?eNpjYGBgMLQw1TMyMtczs9AzNNgmBhQpSc1JTS9KzI3PLErMA9L5eQ8ZgcJLnZycjIwdTV10TUzcDHWNHIGEhbGjga6TmamRkZGLoZmTs2MjC1Blz9sFe95uXw0m17ll5uUk5qU0NjKAAQcDFAAAIKYiWQ
+exclave://ssh?eNpjYGBgMLQw1TMyMtczs9AzNNgmBhQpSc1JTS9KzI3PLErMA9L5eQ8ZgcJLnZycjIwdTV10TUzcDHWNHIGEhbGjga6TmamRkZGLoZmTs2MjC1Blz9sFe95uXw0m17ll5uUk5qU0NjKAAQcDFAAAIKYiWQ
+
